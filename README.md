@@ -9,7 +9,8 @@
 
 - 📩 To reach me/work things out together/any thoughts **game665987@gmail.com**
 
-<h2 align="center">⌨️ Things I Have Learned </h2>  
+<h2 align="center">⌨️ Skills </h2>  
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p>
    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
