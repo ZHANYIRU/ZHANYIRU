@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm YI RU ZHAN 👋
 <br></br>
-<img src="https://komarev.com/ghpvc/?username=yu-an41&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=zhanyiru&style=for-the-badge">
 </h1>
 
 - 🌱 I'm a Front-end newbee
