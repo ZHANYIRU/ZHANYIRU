@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YI RU ZHAN 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+ZHANYIRU's+Github)](https://git.io/typing-svg) 👋
 <br></br>
 <img src="https://komarev.com/ghpvc/?username=zhanyiru&style=for-the-badge">
 </h1>
